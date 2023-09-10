@@ -27,7 +27,8 @@ Learn Laravel Livewire 3 and Alpine.js with Chirps - A Practical Example from ht
 3. **Install JavaScript Dependencies:**
     - After installing PHP dependencies, run the following command to install JavaScript dependencies using npm:
       ```
-      npm install
+      npm install 
+      npm run dev
       ```
 
 4. **Generate Application Key:**

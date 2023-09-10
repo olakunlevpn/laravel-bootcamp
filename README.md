@@ -4,7 +4,8 @@ Learn Laravel Livewire 3 and Alpine.js with Chirps - A Practical Example from ht
 
 - Create Chirps
 - Edit Chirps
-- Comment on Chirps
+- Delete Chirps
+- Comment on Chirps (Create & Delete)
 - Load more on scroll using Alpine.js Intersect Plugin
 
 ![](docs/demo.gif)
